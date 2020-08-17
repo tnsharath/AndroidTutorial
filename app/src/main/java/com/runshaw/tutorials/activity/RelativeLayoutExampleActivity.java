@@ -1,8 +1,10 @@
-package com.runshaw.tutorials;
+package com.runshaw.tutorials.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.runshaw.tutorials.R;
 
 public class RelativeLayoutExampleActivity extends AppCompatActivity {
 

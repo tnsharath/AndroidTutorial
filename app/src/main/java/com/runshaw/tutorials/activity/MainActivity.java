@@ -1,8 +1,7 @@
-package com.runshaw.tutorials;
+package com.runshaw.tutorials.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
@@ -13,11 +12,12 @@ import android.widget.CompoundButton;
 import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.RadioButton;
-import android.widget.RadioGroup;
 import android.widget.TextView;
 import android.widget.TimePicker;
 import android.widget.Toast;
 import android.widget.ToggleButton;
+
+import com.runshaw.tutorials.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -182,4 +182,17 @@ public class MainActivity extends AppCompatActivity {
     public void goToFrameLayout(View view) {
         startActivity(new Intent(this, FrameLayoutActivity.class));
     }
+
+    public void goToCardView(View view) {
+        startActivity(new Intent(this, CardViewActivity.class));
+    }
+
+    public void goToFragment(View view) {
+        startActivity(new Intent(this, FragmentHostActivity.class));
+    }
+
+    //TODO Framelayout
+    //TODO CardView
+    // Fragments
+    // TODO
 }

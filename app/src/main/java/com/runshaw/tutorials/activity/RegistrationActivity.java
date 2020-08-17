@@ -1,4 +1,4 @@
-package com.runshaw.tutorials;
+package com.runshaw.tutorials.activity;
 
 import android.os.Bundle;
 import android.view.View;
@@ -7,6 +7,9 @@ import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.runshaw.tutorials.R;
+import com.runshaw.tutorials.data.SharedPref;
 
 /**
  * Created by Sharath on 2020/08/13

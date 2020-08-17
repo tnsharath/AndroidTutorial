@@ -1,4 +1,4 @@
-package com.runshaw.tutorials;
+package com.runshaw.tutorials.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,6 +9,8 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.material.textfield.TextInputEditText;
+import com.runshaw.tutorials.R;
+import com.runshaw.tutorials.data.SharedPref;
 
 /**
  * Created by Sharath on 2020/08/13

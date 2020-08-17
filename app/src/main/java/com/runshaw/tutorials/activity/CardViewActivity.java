@@ -1,14 +1,16 @@
-package com.runshaw.tutorials;
+package com.runshaw.tutorials.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class FrameLayoutActivity extends AppCompatActivity {
+import com.runshaw.tutorials.R;
+
+public class CardViewActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_frame_layout);
+        setContentView(R.layout.activity_card_view);
     }
 }
