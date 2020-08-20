@@ -191,6 +191,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(this, FragmentHostActivity.class));
     }
 
+    public void goToTODO(View view) {
+        startActivity(new Intent(this, TodoActivity.class));
+    }
+
     //TODO Framelayout
     //TODO CardView
     // Fragments

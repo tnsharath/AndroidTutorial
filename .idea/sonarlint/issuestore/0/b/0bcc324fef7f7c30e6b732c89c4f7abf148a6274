@@ -1,0 +1,9 @@
+
+u
+java:S1450"_Remove the "galleryViewModel" field and declare it as a local variable in the relevant methods.(ŸŒÀ€
+U
+java:S1874":Remove this use of "ViewModelProviders"; it is deprecated.(Þ€ñàùÿÿÿÿ
+E
+java:S1874"*Remove this use of "of"; it is deprecated.(Þ€ñàùÿÿÿÿ
+U
+java:S1161":Add the "@Override" annotation above this method signature(î•Éðûÿÿÿÿ

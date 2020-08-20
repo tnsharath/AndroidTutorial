@@ -1,0 +1,9 @@
+
+U
+java:S1874":Remove this use of "ViewModelProviders"; it is deprecated.(¶ÓÇÿÿÿÿÿÿ
+E
+java:S1874"*Remove this use of "of"; it is deprecated.(¶ÓÇÿÿÿÿÿÿ
+U
+java:S1161":Add the "@Override" annotation above this method signature(î•Éðûÿÿÿÿ
+w
+java:S1450"\Remove the "homeViewModel" field and declare it as a local variable in the relevant methods.(¿ž­¶üÿÿÿÿ

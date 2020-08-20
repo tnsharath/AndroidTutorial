@@ -185,4 +185,10 @@
         android:layout_height="wrap_content"
         android:text="Go to Fragments"
         android:onClick="goToFragment"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to TODO"
+        android:onClick="goToTODO"/>
 </LinearLayout>
